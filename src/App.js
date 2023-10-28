@@ -1,26 +1,27 @@
-//  import { Route, Routes } from 'react-router-dom';
+// import Home from "./components/Home";
+// import Navbar from "./components/Navbar";
+// import Sidebar from "./components/Sidebar";
+import React from "react";
+import Signin from "./components/Signin";
+import {Route, Routes } from "react-router-dom";
+import Main from "./components/Main";
+import Connection from "./components/Connection";
+import Invitation from "./components/Invitation";
 
-import "./App.css";
-import Header from "./components/Header";
-import Home from "./components/Home";
-import Login from "./components/Login";
 
 
 function App() {
-  alert(`Please bear with me,\n i was not able to complete it cause of some errors i have being getting \n Promising to complete it in no time`)
   return (
-   <div className="App">
-     {/* <Routes>
-       <Route path="/Login" element={<Login/>}> </Route>
-  
-    </Routes> */}
-  
-     <Login/>
-    <Header/>
-    <Home/>
-   </div>
+    <div>
+      <Routes>
+        <Route path="/" element={<Signin />} />
+        <Route path="/main" element={<Main />} />
+        <Route path="//connect" element={<Connection />} />
+        <Route path="//invite" element={<Invitation/>} />
+      </Routes>
+      
 
-  );
+    </div>
+  )
 }
-
 export default App;
