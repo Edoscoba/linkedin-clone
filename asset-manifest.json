@@ -1,23 +1,21 @@
 {
   "files": {
     "main.css": "/linkedin-clone/static/css/main.9385760a.css",
-    "main.js": "/linkedin-clone/static/js/main.20655521.js",
-    "static/media/login-hero.svg": "/linkedin-clone/static/media/login-hero.f345bb66c0343807b84b3d024582a0ff.svg",
-    "static/media/login-logo.svg": "/linkedin-clone/static/media/login-logo.15b7802b075e3e83c9e1c8fb6a581b36.svg",
-    "static/media/nav-messaging.svg": "/linkedin-clone/static/media/nav-messaging.9584eff2307e87584e6d10387a42211f.svg",
-    "static/media/photo.svg": "/linkedin-clone/static/media/photo.b826ffee63cd7ef528688a4fd807b1a1.svg",
+    "main.js": "/linkedin-clone/static/js/main.ae018ceb.js",
+    "static/media/developer.png": "/linkedin-clone/static/media/developer.a15e578f5bb1e4d83698.png",
+    "static/media/steve.jpg": "/linkedin-clone/static/media/steve.d841a83b2f6d46140556.jpg",
+    "static/media/linkedin.png": "/linkedin-clone/static/media/linkedin.75fc39808d8bd5575b0e.png",
+    "static/media/profile.png": "/linkedin-clone/static/media/profile.5faf09a7795d28bf5a2b.png",
+    "static/media/calendar.png": "/linkedin-clone/static/media/calendar.1f0a33e19687f09cc6f7.png",
+    "static/media/image.png": "/linkedin-clone/static/media/image.aaecac4c97d33f3b8d4e.png",
+    "static/media/article.png": "/linkedin-clone/static/media/article.d719c8b0fcaa689e6288.png",
+    "static/media/linked.png": "/linkedin-clone/static/media/linked.f249b38224ca41a0b909.png",
     "index.html": "/linkedin-clone/index.html",
-    "static/media/user.svg": "/linkedin-clone/static/media/user.912f30c66c5c71501b5f09573301b3b0.svg",
-    "static/media/home-logo.svg": "/linkedin-clone/static/media/home-logo.894ffbd035b6ff43124c4b7d52e44d19.svg",
-    "static/media/nav-network.svg": "/linkedin-clone/static/media/nav-network.c42b3f6b7e46a963163de66a9ddf3e20.svg",
-    "static/media/search-icon.svg": "/linkedin-clone/static/media/search-icon.592ea5c8f477288f4d762e59817e83d3.svg",
-    "static/media/card-bg.svg": "/linkedin-clone/static/media/card-bg.7ae1b15125c0656d1bc2ee1515e0e7db.svg",
-    "static/media/nav-home.svg": "/linkedin-clone/static/media/nav-home.41af876012c3fdcdb6c6146f17bc3efd.svg",
     "main.9385760a.css.map": "/linkedin-clone/static/css/main.9385760a.css.map",
-    "main.20655521.js.map": "/linkedin-clone/static/js/main.20655521.js.map"
+    "main.ae018ceb.js.map": "/linkedin-clone/static/js/main.ae018ceb.js.map"
   },
   "entrypoints": [
     "static/css/main.9385760a.css",
-    "static/js/main.20655521.js"
+    "static/js/main.ae018ceb.js"
   ]
 }
